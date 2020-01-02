@@ -3,7 +3,8 @@
     "blocks": [
       "info-card#button-left",
       "info-card#button-right",
-      "flex-layout.row"
+      "flex-layout.row",
+      "shelf"
     ]
   },
 
@@ -72,4 +73,6 @@
       "maxWidth": "100%"
     }
   }
+
+
 }
