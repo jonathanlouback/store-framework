@@ -14,7 +14,8 @@
     }
   },
 
-  "info-card#button-left": {
+
+  "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
       "textPosition": "right",
@@ -28,7 +29,7 @@
     }
   },
 
-  "info-card#button-right": {
+  "info-card#button-left": {
     "props": {
       "isFullModeStyle": false,
       "textPosition": "left",
@@ -37,8 +38,9 @@
       "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
       "callToActionMode": "link",
       "callToActionText": "Go to Collection",
-      "callToActionUrl": "/sale/f",
+      "callToActionUrl": "/sale/p",
       "textAlignment": "center"
     }
   }
+
 }
