@@ -9,7 +9,7 @@
 
   "rich-text": {
     "props": {
-      "text": "**Olá, Mundo!**",
+      "text": "**Olá, Mundos!**",
       "textPosition": "RIGHT"
     }
   },
