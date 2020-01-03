@@ -33,15 +33,18 @@
     }
   },
 
+  "product-name": {
+    "props": {
+      "showSKU": true,
+      "showBrandName": true
+    }
+  },
+
   "buy-button#product": {
     "props": {
       "isOneClickBuy": true,
       "showTooltipOnSkuNotSelected": false,
-      "buyButtonText": "Comprar",
-      "large": false,
-      "showItemsPrice": true,
-      "showToast": true,
-      "shouldOpenMinicart": true
+      "large": false
     }
   },
 
@@ -49,13 +52,6 @@
     "props": {
       "showSavings": true,
       "showListPrice": false
-    }
-  },
-
-  "product-name": {
-    "props": {
-      "showSKU": true,
-      "showBrandName": true
     }
   }
 
