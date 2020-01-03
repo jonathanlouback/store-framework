@@ -23,7 +23,7 @@
 
   "flex-layout.col#right": {
     "children": [
-      "product-name",
+      "product-name#name",
       "product-price#price",
       "buy-button#product"
     ],
@@ -33,7 +33,7 @@
     }
   },
 
-  "product-name": {
+  "product-name#name": {
     "props": {
       "showSKU": true,
       "showBrandName": true
