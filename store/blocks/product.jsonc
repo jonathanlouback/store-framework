@@ -48,6 +48,13 @@
       "showSavings": true,
       "showListPrice": false
     }
+  },
+
+  "product-name": {
+    "props": {
+      "showSKU": true,
+      "showBrandName": true
+    }
   }
 
 }
