@@ -4,7 +4,8 @@
       "info-card#button-left",
       "info-card#button-right",
       "flex-layout.row",
-      "shelf"
+      "shelf",
+      "slider-layout#home"
     ]
   },
 
@@ -73,6 +74,5 @@
       "maxWidth": "100%"
     }
   }
-
 
 }
