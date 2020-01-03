@@ -1,0 +1,28 @@
+{
+	"store.custom#landing": {
+		"blocks": [
+			"image#landingbanner", 
+			"search-result-layout.customQuery#land"
+		]
+	},
+
+	"image#landingbanner": {
+    "props": {
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Desktop.jpg?q=1",
+      "minWidth": "100%"
+    } 
+	},
+	
+	"search-result-layout.customQuery#land": {
+		"props": {
+			"querySchema": {
+				"orderByField": "OrderByReleaseDateDESC",
+				"hideUnavailableItems": true,
+				"maxItemsPerPage": 8,
+				"queryField": "Blue Top Retro Camera",
+				"mapField": "ft"
+			}
+		},
+		"blocks": ["search-result-layout.desktop"]
+	}
+}
